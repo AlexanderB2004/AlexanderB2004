@@ -11,14 +11,6 @@ Hallo ich bin Alexander
 
 
 
-
-
-
-
-
-
-
-
 Hello I am Alexander
 
 📍 Germany
