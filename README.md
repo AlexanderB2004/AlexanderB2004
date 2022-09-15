@@ -1,3 +1,24 @@
+Hallo ich bin Alexander
+
+📍 Deutschland
+
+➔ 🏁 Allgemeine Hochschulreife mit Profil IT
+
+✅ C#. HTML, CSS, SQL 
+
+🔎 Dart, Flutter, Python
+
+
+
+
+
+
+
+
+
+
+
+
 Hello I am Alexander
 
 📍 Germany
@@ -8,12 +29,4 @@ Hello I am Alexander
 
 🔎 Dart, Flutter, Python
 
-Hallo ich bin Alexander
 
-📍 Deutschland
-
-➔ 🏁 Allgemeine Hochschulreife mit Profil IT
-
-✅ C#. HTML, CSS, SQL 
-
-🔎 Dart, Flutter, Python
