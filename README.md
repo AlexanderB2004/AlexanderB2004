@@ -1,3 +1,19 @@
-- 👋 Hi, I’m @AlexanderB2004
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Python, Dart, Flutter 
+Hello I am Alexander
+
+📍 Germany
+
+➔ 🏁 get high-school diploma
+
+✅ C#. HTML, CSS, SQL 
+
+🔎 Dart, Flutter, Python
+
+Hallo ich bin Alexander
+
+📍 Deutschland
+
+➔ 🏁 Allgemeine Hochschulreife mit Profil IT
+
+✅ C#. HTML, CSS, SQL 
+
+🔎 Dart, Flutter, Python
