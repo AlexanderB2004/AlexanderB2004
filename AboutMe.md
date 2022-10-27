@@ -1,6 +1,6 @@
 Hallo ich bin Alexander
 
-📍 Deutschland
+📍 Deutschland, Ulm
 
 ➔ 🏁 Allgemeine Hochschulreife mit Profil IT
 
